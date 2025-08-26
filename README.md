@@ -1,2 +1,2 @@
-# idenfyNFCReading
-Android iDenfy NFC Reading SDK
+# idenfyTrustedService
+Android iDenfy Trusted Service SDK
